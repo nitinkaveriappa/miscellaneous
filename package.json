@@ -1,0 +1,25 @@
+{
+  "name": "miscellaneous",
+  "version": "1.0.0",
+  "description": "miscellaneous",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitinkaveriappa/miscellaneous.git"
+  },
+  "author": "Nitin Kaveriappa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitinkaveriappa/miscellaneous/issues"
+  },
+  "homepage": "https://github.com/nitinkaveriappa/miscellaneous#readme",
+  "devDependencies": {
+    "jest": "26.0.1"
+  }
+}
